@@ -2,5 +2,25 @@
     .wrapper{
         width: 750px;
     }
+    .button{
+        width: min-content;
+    }
+    .want{
+        width: 500px;
+        height: 300px;
+    }
+    .me{
+        max-height: 200px;
+        max-width:  200px;
+        padding-left: 20px;
+    }
+    .me1{
+        max-height: 200px;
+        max-width:  300px;
+    }
+    .mge{
+        width: 300px;
+        height: 200px;
 
+    }
 }
